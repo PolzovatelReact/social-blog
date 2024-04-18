@@ -1,0 +1,7 @@
+{
+  "prettier.bracketSameLine": false,
+  "prettier.requirePragma": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true
+}
